@@ -4,3 +4,5 @@ for num in a:
 	print(a)
 
 print("línea")
+
+print("Segunda línea")
